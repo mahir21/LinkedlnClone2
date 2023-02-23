@@ -2,16 +2,20 @@ import React from 'react'
 import './Header.css'
 
 import SearchIcon from '@mui/icons-material/Search';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 
 function Header() {
   return (
     <div className = "header">
-      This Is The Header File
+      
+     
       
       <div className = "header_left">
-          <img src = "" alt=""/>
-
+          
+          <LinkedInIcon/>
+              
+             
           <div className= "header_search">
                 
                 <SearchIcon/>
