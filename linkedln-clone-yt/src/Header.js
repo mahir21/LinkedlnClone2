@@ -13,7 +13,7 @@ function Header() {
       
       <div className = "header_left">
           
-          <LinkedInIcon/>
+        <i className='header_left_linkedIn_Icon'>  <LinkedInIcon/> </i>
               
              
           <div className= "header_search">

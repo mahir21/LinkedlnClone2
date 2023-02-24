@@ -1,9 +1,15 @@
 .header{
-    display:flex;
+   display:flex;
 }
 
 .header_left{
     display:flex;
+    font-size: 2rem;
+    
+}
+.header_left_linkedIn_Icon{
+    color:red;
+    font-size: 2rem;
 }
 
 .header_left > img {
@@ -13,5 +19,12 @@
 
 .header_search{
     display:flex;
+   padding:10px;
+   align-items:center;
+   height:5px;
+   border-radius:5px;
+   color:grey;
+  
+  
    
 }

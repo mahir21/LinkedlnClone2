@@ -7,7 +7,7 @@ function App() {
 
     <div className="app">
 
-          <h1>Let's Build A Linkedin Clone App</h1>
+         
           
           {/*Header*/}
           <Header/>
